@@ -1,7 +1,8 @@
-http://example.com/2024/07/31/hello-world/
-http://example.com/tags/index.html
-http://example.com/categories/index.html
-http://example.com/
-http://example.com/tags/node-js/
-http://example.com/tags/hexo/
-http://example.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
+http://kevin409.fun/link/index.html
+http://kevin409.fun/categories/index.html
+http://kevin409.fun/tags/index.html
+http://kevin409.fun/2024/07/31/hello-world/
+http://kevin409.fun/
+http://kevin409.fun/tags/node-js/
+http://kevin409.fun/tags/hexo/
+http://kevin409.fun/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/

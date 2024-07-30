@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2024/07/31/hello-world/</loc>
+    <loc>http://kevin409.fun/link/index.html</loc>
     
     <lastmod>2024-07-30</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://kevin409.fun/categories/index.html</loc>
     
     <lastmod>2024-07-30</lastmod>
     
@@ -20,7 +20,16 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://kevin409.fun/tags/index.html</loc>
+    
+    <lastmod>2024-07-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevin409.fun/2024/07/31/hello-world/</loc>
     
     <lastmod>2024-07-30</lastmod>
     
@@ -30,7 +39,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://kevin409.fun/</loc>
     <lastmod>2024-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -38,14 +47,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/node-js/</loc>
+    <loc>http://kevin409.fun/tags/node-js/</loc>
     <lastmod>2024-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/hexo/</loc>
+    <loc>http://kevin409.fun/tags/hexo/</loc>
     <lastmod>2024-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -54,7 +63,7 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <loc>http://kevin409.fun/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2024-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

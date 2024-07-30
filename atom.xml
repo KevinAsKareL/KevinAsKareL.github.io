@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>AloneMoon</title>
+  <icon>https://www.gravatar.com/avatar/2a9c9749b11fb2546734c1c306c5bab9</icon>
+  <subtitle>孤月</subtitle>
+  <link href="http://kevin409.fun/atom.xml" rel="self"/>
   
-  
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="http://kevin409.fun/"/>
   <updated>2024-07-30T16:24:23.138Z</updated>
-  <id>http://example.com/</id>
+  <id>http://kevin409.fun/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>AsKareLKevin</name>
+    <email>AsKareLKevin@outlook.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2024/07/31/hello-world/"/>
-    <id>http://example.com/2024/07/31/hello-world/</id>
+    <link href="http://kevin409.fun/2024/07/31/hello-world/"/>
+    <id>http://kevin409.fun/2024/07/31/hello-world/</id>
     <published>2024-07-30T16:14:00.000Z</published>
     <updated>2024-07-30T16:24:23.138Z</updated>
     
@@ -33,12 +33,12 @@
     
     
     
-    <category term="学习笔记" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="http://kevin409.fun/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="node.js" scheme="http://example.com/tags/node-js/"/>
+    <category term="node.js" scheme="http://kevin409.fun/tags/node-js/"/>
     
-    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    <category term="hexo" scheme="http://kevin409.fun/tags/hexo/"/>
     
   </entry>
   
